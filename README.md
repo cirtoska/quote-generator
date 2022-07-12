@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Random Quote React App
+Live Preview https://friendly-choux-30fc70.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
