@@ -24,14 +24,11 @@ function QuotesGenerator() {
   return (
     <>
       <div className="container m-auto">
-        {/* <div className="quoteBtn m-auto"> */}
-        <label
-          htmlFor="my-modal-3"
-          className="btn modal-button btn-block btn-lg m-5 mt-20"
-        >
-          Generate Quote
-        </label>
-        {/* </div> */}
+        <div className="quoteBtn grid place-content-center h-48">
+          <label htmlFor="my-modal-3" className="btn modal-button">
+            Generate Quote
+          </label>
+        </div>
         <input type="checkbox" id="my-modal-3" className="modal-toggle" />
         <div className="modal">
           <div className="modal-box relative">
